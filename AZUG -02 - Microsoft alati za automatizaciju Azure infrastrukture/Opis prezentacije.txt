@@ -1,0 +1,12 @@
+Automatizacija je ključna za korišćenje Azure mogućnosti na dosledan i optimalan način.
+Postoje različite tehnologije i alati za automatizaciju i upravljanje Azure resursima, ali kako odabrati pravu?
+Azure PowerShell ili Azure CLI 2.0? Da li ćete koristiti command line ili moćni ARM template?
+Pridružite nam se kako biste saznali više o ovim tehnologijama automatizacije i izabrali pobednika.
+
+Predavač:
+
+Aleksandar Nikolić je Microsoft Most Valuable Professional (MVP) za Cloud and Datacenter Management i Microsoft Azure.
+Jedan je od osnivača PowerShellMagazine.com i community manager portala PowerShell.com.
+17 godina je radio kao sistem administrator. Proteklih 7 godina drži PowerShell i Azure treninge gde god se ukaže prilika.
+Redovan predavač na raznim IT konferencijama (Microsoft Ignite, Microsoft TechDays, PowerShell Conference Europe, Sinergija, KulenDayz, NTK, MMS, NIC, IT/Dev Connections, ExpertsLive Europe/USA…).
+Vrhunac dosadašnje predavačke karijere mu je PowerShell trening koji je održao u Microsoftovom kampusu u Redmondu.
